@@ -9,7 +9,7 @@ https://youtu.be/Wi0pEULGi5I?autoplay=1"frameborder="0" allowfullscreen
 #EXTINF:-1 tvg-id="103" tvg-logo="https://images.app.goo.gl/mCDh9Q58QPiB74dJ6", Imagen Multicast (CDMX)
 https://youtu.be/LMf7753J63E?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/nsi9jCtbhKQiBTeN8", RT Español
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/nsi9jCtbhKQiBTeN8", RT Espanol
 https://youtu.be/9DXGrOU5wKQ?autoplay=1"frameborder="0" allowfullscreen
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/7vtsbJcdVEvAsZo16", Multimedios (Monterrey)
@@ -18,7 +18,7 @@ https://youtu.be/CGAQrb6sSZE?autoplay=1"frameborder="0" allowfullscreen
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/KfZSNTLtTAMD4WYn9", MVS Noticias (Web)
 https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPQ9htBn3mYL4umrEc2vFsgVwrjthSOHSrJ_lXiCbUIE)/p/dm/3/x6t7n6t/s/live-2.m3u8
 
-#EXTINF:-1 tvg-logo="", América Tv (Web)
+#EXTINF:-1 tvg-logo="", America Tv (Web)
 https://youtu.be/2Vyx4ee2Tss?autoplay=1"frameborder="0" allowfullscreen
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/ZHa8WPSmeVAovAxY7", Teleritmo
@@ -45,10 +45,10 @@ https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhGuQ9Ni7CS0IIAGn9
 #EXTINF:-1 tvg-logo="", Televisa Tijuana (Tijuana)
 https://youtu.be/xH-5HOAu35o?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="", Canal 44 (Cd. Juárez)
+#EXTINF:-1 tvg-logo="", Canal 44 (Cd. JuÃ¡rez)
 https://youtu.be/Tx6s4B1vOGk?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="", México Travel Channel (MX)
+#EXTINF:-1 tvg-logo="", MÃ©xico Travel Channel (MX)
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVazMwi5YwrIHaexkxGUi6k)/dm/3/x7v76vf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="", RCG (Saltillo)
