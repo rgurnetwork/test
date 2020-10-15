@@ -2,58 +2,58 @@
 
 #EXTINF:0 tvg-id="100" tvg-logo="https://images.app.goo.gl/Ain1XEBabfkCRgj8A", TV WEB
 
-#EXTINF:0 tvg-id="18" tvg-logo="https://images.app.goo.gl/KHrAAM3c4X5AkKh8A"tvg-name="LATINOS UP TV", Latinos UP
+#EXTINF:0 tvg-id="18" tvg-logo=""tvg-name="LATINOS UP", Latinos UP
 https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
 
-#EXTINF:-1  tvg-id="1" tvg-logo="https://images.app.goo.gl/qyUckHKytma6tKXK7" tvg-name="FORO TV", Foro Tv (CDMX)
+#EXTINF:-1  tvg-id="1" tvg-logo="" tvg-name="FORO TV", Foro Tv
 https://www.youtube.com/embed/qM8RYN1MAh8?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://images.app.goo.gl/qmDCZjLPXMVPSD2C9", Milenio (CDMX)
+#EXTINF:-1 tvg-id="2" tvg-logo="", Milenio
 https://youtu.be/Wi0pEULGi5I?autoplay=1"frameborder="0" allowfullscreen
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://images.app.goo.gl/mCDh9Q58QPiB74dJ6", Imagen Multicast (CDMX)
 https://youtu.be/LMf7753J63E?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/nsi9jCtbhKQiBTeN8", RT Español
+#EXTINF:-1 tvg-id="4" tvg-logo="", RT Espanol
 https://youtu.be/9DXGrOU5wKQ?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://images.app.goo.gl/7vtsbJcdVEvAsZo16", Multimedios (Monterrey)
+#EXTINF:-1 tvg-id="5" tvg-logo="", Multimedios (Monterrey)
 https://youtu.be/CGAQrb6sSZE?autoplay=1"frameborder="0" allowfullscreen
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://images.app.goo.gl/KfZSNTLtTAMD4WYn9", MVS Noticias (Web)
 https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPQ9htBn3mYL4umrEc2vFsgVwrjthSOHSrJ_lXiCbUIE)/p/dm/3/x6t7n6t/s/live-2.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="", América Tv (Web)
+#EXTINF:-1 tvg-id="7" tvg-logo="", AmÃ©rica Tv (Web)
 https://youtu.be/2Vyx4ee2Tss?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://images.app.goo.gl/ZHa8WPSmeVAovAxY7", Teleritmo
+#EXTINF:-1 tvg-id="8" tvg-logo="", Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://images.app.goo.gl/QwzvuiP8YVMnG3Gv8", Quiero TV
+#EXTINF:-1 tvg-id="9" tvg-logo="", Quiero TV
 https://quierotvlive.tk/httplive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://images.app.goo.gl/4B4KfcoFH1k4Bmre6", Multivision
 https://panel.dattalive.com/8250/8250/.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://images.app.goo.gl/bc8hepU2RgCstqUV8", Heraldo Tv (Cabina)
+#EXTINF:-1 tvg-id="11" tvg-logo="", Heraldo Radio
 https://stream-03.nyc.dailymotion.com/sec(zsJvUO364Q-dgxMxWVypVdWEVAeF7RKrMC1hChZaB0A)/dm/3/x7myiuk/d/live-1.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://images.app.goo.gl/C77GjMfRTMtYhwmV9", XEVT Tv (Villahermosa)
+#EXTINF:0 tvg-id="12" tvg-logo="https://images.app.goo.gl/C77GjMfRTMtYhwmV9", XEVT Tv (Villahermosa)
 https://youtu.be/MCzitj4tGnA?autoplay=1"frameborder="0" allowfullscreen
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://images.app.goo.gl/6wz9ErBrrT3EWEtP8", Heraldo Tv (CDMX)
 https://stream-03.nyc.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yXtaNubmuIhCeB6zoOZMRsA)/dm/3/x792196/d/live-0.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://images.app.goo.gl/j9KW8YUS3shtzGWW8", TeleFormula (WEB)
+#EXTINF:-1 tvg-id="14" tvg-logo="", TeleFormula
 https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhGuQ9Ni7CS0IIAGn9-X25s)/dm/3/x7ueip2/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="", Televisa Tijuana (Tijuana)
 https://youtu.be/xH-5HOAu35o?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="44" tvg-logo="https://images.app.goo.gl/7gbZoh47bvB1bDv67", Canal 44 (Cd. Juárez)
+#EXTINF:-1 tvg-id="44" tvg-logo="https://images.app.goo.gl/7gbZoh47bvB1bDv67", Canal 44 (Cd. JuÃ¡rez)
 https://youtu.be/Tx6s4B1vOGk?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="16" tvg-logo="https://images.app.goo.gl/GT2p5KaW3Ugsu7xk8", México Travel Channel (MX)
+#EXTINF:-1 tvg-id="16" tvg-logo="https://images.app.goo.gl/GT2p5KaW3Ugsu7xk8", MÃ©xico Travel Channel (MX)
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVazMwi5YwrIHaexkxGUi6k)/dm/3/x7v76vf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://images.app.goo.gl/kpmz52W3iagSr4qh6", RCG (Saltillo)
