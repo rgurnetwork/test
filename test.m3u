@@ -38,10 +38,10 @@ https://panel.dattalive.com/8250/8250/.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="", Heraldo Radio
 https://stream-03.nyc.dailymotion.com/sec(zsJvUO364Q-dgxMxWVypVdWEVAeF7RKrMC1hChZaB0A)/dm/3/x7myiuk/d/live-1.m3u8
 
-#EXTINF:0 tvg-id="12" tvg-logo="https://images.app.goo.gl/C77GjMfRTMtYhwmV9", XEVT Tv (Villahermosa)
+#EXTINF:0 tvg-id="12" tvg-logo="", XEVT (Villahermosa)
 https://youtu.be/MCzitj4tGnA?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://images.app.goo.gl/6wz9ErBrrT3EWEtP8", Heraldo Tv (CDMX)
+#EXTINF:-1 tvg-id="13" tvg-logo="", Heraldo Tv (CDMX)
 https://stream-03.nyc.dailymotion.com/sec(flYDIS2TJc06LP-7DFS-yXtaNubmuIhCeB6zoOZMRsA)/dm/3/x792196/d/live-0.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="", TeleFormula
@@ -50,19 +50,19 @@ https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqhGuQ9Ni7CS0IIAGn9
 #EXTINF:-1 tvg-id="15" tvg-logo="", Televisa Tijuana (Tijuana)
 https://youtu.be/xH-5HOAu35o?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="44" tvg-logo="https://images.app.goo.gl/7gbZoh47bvB1bDv67", Canal 44 (Cd. Juárez)
+#EXTINF:-1 tvg-id="44" tvg-logo="", Canal 44 (Cd. Juarez)
 https://youtu.be/Tx6s4B1vOGk?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-id="16" tvg-logo="https://images.app.goo.gl/GT2p5KaW3Ugsu7xk8", México Travel Channel (MX)
+#EXTINF:-1 tvg-id="16" tvg-logo="", Mexico Travel Channel (MX)
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVazMwi5YwrIHaexkxGUi6k)/dm/3/x7v76vf/s/live-1.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://images.app.goo.gl/kpmz52W3iagSr4qh6", RCG (Saltillo)
+#EXTINF:-1 tvg-id="17" tvg-logo="", RCG (Saltillo)
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/chunklist_w413778099.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://images.app.goo.gl/SqUXZz9z2uGdB9Dr7", TVQ (Centla)
+#EXTINF:-1 tvg-id="10" tvg-logo="", TVQ (Centla)
 https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CoYF3vTtrjRwMRjy6g6_eEyYvusYIuzN9W3dklwcps3HAT_j8AO8l50OSKJnykg2Qefqx8jNZJ6ugbVI-VRTJwvHgFYHYHnEryYQ8Grr-IpI3uGA-L22MJ2tlaWGbxta95zJamS8tVIe-IOsC3LEL87FddXn1o3VLYfRGbDgW_A4Nsk0bexKT_ufEshfV8mE2l-vlbXl_eQ1yYIJ2aq3z3S_5AC5-DzKPJcLrg1OJ1XJdGtXxQPblzYsxLs-yYhsPQQ3EfCRSKsoZRH1T8NGT4ucom6PutSGSlulW-J42bHtKvQzWfQG43YF2G85JnQst_Q-zughUqAJkKNdK4Hb9PFUA1-VzSUijeUG_ATUUlzvBXB0iJBx5zYXXo4qUtvEl-0J8TQCkVcwpKI_T9o96JThoV53fBCzya6ZjLKeZoV7ucgrHWryc1kTdLornB23FveMmkVxIsVt-q_hEEBt9gujOD-dJJTU8jghwWCdMIlh0uF7-mUjPN2CTNCp3HWJUcP0o7DGdhJ1hwFkrutihe84tIMzXxVdLg0q97b97B3XhuZnaWu8oRnlQmIqyZEVmiwbFLWVl_FeOPV8-05lkqY61zdSqT62x8INmuFq7PWCKqP5NWyAlZyLGiTjHZuhL_M79w71Ha8PrOPCsmHTfvlgqquOGwshCqNNCLVqjGdZN5Yy0g9I8sKIaytSOlf68JkNYRgS395VTGlqdwYXdgz8KcJI205F5Tdn8kr_uCP3Kuazqszlw2xlCMhb1moPjdpCKkoNL_YVHsciUri0Be2IAcJpZpYEyxDJKyxxwbXxZwLPh-NcYi80h9jXG2gTcp1RFLQO91aOdwYxzv9r4WuTavXJWNio9xIQ7xUDZHOSUhnXvU8sToau8BoM-eUuU_Gu0Eya9k5T.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-logo="", Animales
+#EXTINF:-1 tvg-id="18" tvg-logo="", Pluto TV Animales
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8fe3bee1-703e-4fde-bb09-b8acf9d276fe&deviceLat=-12.0464&deviceLon=-77.0428&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=83.0.4103.97&includeExtendedEvents=false&marketingRegion=VE&sid=1fee75b8-72ff-4369-b9ed-84c17cb734c2&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="19" tvg-logo="", Anime Accion
