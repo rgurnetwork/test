@@ -401,16 +401,16 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/cc-gen.jpg", SIN DEFINIR 3
 "https://www.youtube.com/embed/0Ej8DKWNRyY?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg", El misterio de "La última cena" de Leonardo da Vinci | DW Documental
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg", El misterio de "La Ãºltima cena" de Leonardo da Vinci | DW Documental
 "https://www.youtube.com/embed/fiuu3NZM6yQ?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="", Boeing, la crisis del 737 MAX - Documental
+#EXTINF:1 tvg-logo="", Boeing, la crisis del 737 MAX - Documental
 "https://www.youtube.com/embed/g2Pnb5zYQAQ?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="", Documental Megafabricas del Boeing 747-8 - National Geographic
+#EXTINF:1 tvg-logo="", Documental Megafabricas del Boeing 747-8 - National Geographic
 "https://www.youtube.com/embed/fGOraUYw58M?autoplay=1"frameborder="0" allowfullscreen
 
-#EXTINF:-1 tvg-logo="", Documental Megafactorias 'Lego'
+#EXTINF:1 tvg-logo="", Documental Megafactorias 'Lego'
 "https://www.youtube.com/embed/FG8ozYbqe-w?autoplay=1"frameborder="0" allowfullscreen
 
 
