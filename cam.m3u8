@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1", tvg-name="PATIO", Patio
+rtsp://admin:sope1301@192.168.100.50:105547h264/ch1/main/av_stream
+
+#EXTINF:-1 tvg-id="2", tvg-name="COCHERA", Patio
+rtsp://admin:sope1301@192.168.100.50:105547h264/ch2/main/av_stream
+
+#EXTINF:-1 tvg-id="3", tvg-name="PANORAMICA", Patio
+rtsp://admin:sope1301@192.168.100.50:105547h264/ch3/main/av_stream
+
+#EXTINF:-1 tvg-id="4", tvg-name="ENTRADA", Patio
+rtsp://admin:sope1301@192.168.100.50:105547h264/ch4/main/av_stream
